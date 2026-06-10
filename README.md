@@ -1,5 +1,5 @@
 # Face-Mask-Detection-System
-CN# Face Mask Detection System
+CNN Face Mask Detection System
 
 A CNN-based Face Mask Detection System built using TensorFlow, Keras, and OpenCV.
 
